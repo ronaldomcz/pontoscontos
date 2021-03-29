@@ -10,5 +10,5 @@
     begin
       return translate(texto,'ֱֹֽׁ׃ÚְָּׂÙֲÊ־װÛֳױִֻֿײÜַסביםףתאטלעשגךמפûדץהכןצüח.-!"''`#$%().:[/]{}¨+?;÷×°§*<>','NAEIOUAEIOUAEIOUAOAEIOUCnaeiouaeiouaeiouaoaeiouc');
     end;
-
+dssdssd
 /
